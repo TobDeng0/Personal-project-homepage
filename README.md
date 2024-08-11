@@ -4,7 +4,7 @@ author: Your Name
 date: 2024-08-12
 ---
 
-<!-- You can use emojis to make your page more engaging! 🚀 -->
+<!-- You can use emojis to make your page more engaging! 🚀 --> [中文](https://github.com/TobDeng0/Personal-project-homepage/blob/main/README-zh.md))
 
 # Welcome to My Personal Projects Homepage 🌟
 
