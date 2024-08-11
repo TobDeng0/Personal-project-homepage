@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: rgba(196, 193, 193, 0.17);
+        }
+        .host {
+            width: 500px;
+            height: 500px;
+            margin: 0 auto;
+            text-align: center;
+            margin-top: 10%;
+        }
+        img {
+            margin-top: 15px;
+            width: 200px;
+            height: 200px;
+            border-radius: 100%;
+        }
+        .host_name {
+            font-weight: bold;
+            background: linear-gradient(to right, rgb(242, 44, 44), rgb(255, 111, 1));
+            -webkit-background-clip: text;
+            color: transparent;
+            font-size: 50px;
+            text-align: center;
+        }
+        .box {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            padding-top: 10px;
+        }
+        p {
+            font-weight: 600;
+            margin-top: 10px;
+            color: rgba(39, 38, 38, 0.65);
+            font-size: 20px;
+        }
+        .to_1,
+        .to_2,
+        .to_3 {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            color: white;
+            border: none;
+            width: 150px;
+            height: 50px;
+            border-radius: 50px;
+            transition: 0.8s;
+        }
+        .to_1 {
+            background-color: #263ea7;
+        }
+        .to_1:hover {
+            background-color: #273bc1;
+            box-shadow: 0 0 10px #273bc1;
+        }
+        .to_2 {
+            background-color: #000002;
+        }
+        .to_2:hover {
+            background-color: #343434;
+            box-shadow: 0 0 10px #3b3b3b;
+        }
+        .to_3 {
+            background-color: #eac018;
+        }
+        .to_3:hover {
+            background-color: #f19c08;
+            box-shadow: 0 0 10px #f19c08;
+        }
+        .apps {
+            width: 2em;
+            height: 2em;
+            margin-left: -20px;
+            margin-top: 6px;
+            margin-right: 10px;
+        }
+        .code{
+            width: 1.6em;
+            height: 1.6em;
+            margin-left: -20px;
+            margin-top: 3px;
+            margin-right: 10px;
+        }
+        .Tipping{
+            width: 1.6em;
+            height: 1.6em;
+            margin-left: -20px;
+            margin-top: 3px;
+            margin-right: 10px;
+        }
+        a{
+            text-decoration: none;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="host">
+        <img src="https://imgos.cn/2024/08/11/66b8c1eb1f5e5.png" alt="tx">
+        <br>
+        <span class="host_name">Tob Deng</span>
+        <br>
+        <p>Currently a student & front-end code developer</p>
+        <div class="box">
+            <a href="#apps"><button class="to_1"><img class="apps" src="./imager/ios-appstore.png" alt="apps">Apps</button></a>
+            <a href="#Tipping"><button class="to_3"><img class="Tipping" src="/imager/Tipping.png" alt="Tipping">Tipping</button></a>
+            <a href="#code"><button class="to_2"><img class="code" src="/imager/github.png" alt="code">Code</button></a>
+        </div>
+    </div>
+</body>
+</html>
