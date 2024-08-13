@@ -1,27 +1,10 @@
-
+---
 title: Personal Project Homepage
---
 author: TobDeng0
-
-date: 2024-08-11
-
-version：1.0
-
-title: Personal Project Homepage
---
-author: TobDeng0
-
-date: 2024-08-12
-
-version1.2
-
-title: Personal Project Homepage
---
-author: TobDeng0
-
 date: 2024-08-13
+---
 
-version：1.4 （Probably the final version）
+
 
 # demo
 ![image](https://github.com/user-attachments/assets/e4551016-ff1b-485e-8834-272d64e90438)
@@ -60,6 +43,32 @@ Feel free to reach out for collaboration, feedback, or just to chat about techno
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+##version
+
+title: Personal Project Homepage
+--
+author: TobDeng0
+
+date: 2024-08-11
+
+version：1.0
+
+title: Personal Project Homepage
+--
+author: TobDeng0
+
+date: 2024-08-12
+
+version1.2
+
+title: Personal Project Homepage
+--
+author: TobDeng0
+
+date: 2024-08-13
+
+version：1.4 （Probably the final version）
 
 ### Acknowledgments
 
