@@ -44,6 +44,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+### Acknowledgments
+
+- [me]
+
+---
 ### version
 
 title: Personal Project Homepage
@@ -69,7 +74,3 @@ author: TobDeng0
 date: 2024-08-13
 
 version：1.4 （Probably the final version）
-
-### Acknowledgments
-
-- [me]
