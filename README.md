@@ -44,7 +44,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-##version
+### version
 
 title: Personal Project Homepage
 --
