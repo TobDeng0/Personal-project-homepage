@@ -3,11 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-li{
+ li{
     list-style: none;
-    text-decoration: none;
     display: inline-block;
-}
+} 
 a{
     text-decoration: none;
 }
